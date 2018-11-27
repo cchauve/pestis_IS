@@ -1,4 +1,4 @@
-Cedric Chauve, november 27, 2018
+Cedric Chauve, cedric.chauve@sfu.ca
 
 This directory contains data about a group of *Yersinia pestis* and
 *Yersinia pseudoituberculosis* genomes, studied in the paper
