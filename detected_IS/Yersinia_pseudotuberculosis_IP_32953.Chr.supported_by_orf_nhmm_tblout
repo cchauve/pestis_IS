@@ -1,0 +1,52 @@
+# target name                            accession  query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#                    ------------------- ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS1328               -              594     678 1447676 1447760 1447655 1447760 4744671    +     1.4e-19   69.9   1.2  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS1328               -              611     660  198143  198094  198164  198077 4744671    -         0.3    9.5   0.9  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS150                -                1     786 3947657 3948442 3947657 3948442 4744671    +    2.1e-277  921.8  16.0  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS150                -                1     786 4702255 4701470 4702255 4701470 4744671    -    2.1e-277  921.8  16.0  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS150                -                1     786 4654550 4655335 4654550 4655335 4744671    +    1.1e-276  919.4  16.2  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS150                -              656     786 1334866 1334710 1334886 1334710 4744671    -     0.00045   19.1   4.3  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS150                -              689     772 2926892 2926809 2926911 2926800 4744671    -       0.019   13.7   4.8  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS150                -              423     493 3960429 3960356 3960449 3960335 4744671    -        0.78    8.4   2.4  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS150                -              558     699 2241877 2242030 2241857 2242053 4744671    +         1.9    7.1   4.2  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS200                -                1     509  737009  737517  737009  737518 4744671    +    6.8e-176  585.3  14.0  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS200                -                1     509 1873345 1873853 1873345 1873854 4744671    +    6.8e-176  585.3  14.0  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS200                -                1     509 2365690 2366198 2365690 2366199 4744671    +    6.8e-176  585.3  14.0  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS200                -                1     509 3765961 3765453 3765961 3765452 4744671    -    6.8e-176  585.3  14.0  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS200                -                1     509  838242  838750  838242  838751 4744671    +      8e-176  585.1  14.2  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS21                 -              325     705 1357466 1357843 1357461 1357989 4744671    +     9.7e-12   42.7   1.8  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS21                 -              325     705 1914365 1914742 1914360 1914888 4744671    +     9.7e-12   42.7   1.8  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS21                 -              325     705 2154414 2154791 2154409 2154937 4744671    +     9.7e-12   42.7   1.8  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS21                 -              325     705 4624088 4624465 4624083 4624611 4744671    +     9.7e-12   42.7   1.8  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS21                 -              325     705  369178  368801  369183  368655 4744671    -     9.7e-12   42.7   1.8  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS21                 -              516     643 4426472 4426326 4426496 4426306 4744671    -        0.24    8.4   2.9  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS257                -                1     306 1759871 1760176 1759871 1760176 4744671    +    8.1e-102  340.7   7.0  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS257                -              223     290 2252262 2252334 2252238 2252352 4744671    +        0.62   10.5   0.6  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS257                -               66     133 1238714 1238781 1238694 1238801 4744671    +         1.1    9.7   1.7  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS257                -               47     120 2372033 2372104 2372013 2372126 4744671    +         2.7    8.4   1.9  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS3A                 -                1     960 2234054 2233095 2234054 2233095 4744671    -           0 1122.5  21.3  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS3A                 -                1     960 2223867 2222908 2223867 2222908 4744671    -           0 1118.5  19.8  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS4                  -                1    1208 4634660 4635866 4634660 4635867 4744671    +           0 1417.3  15.1  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS5376               -                1    1023 1357127 1358149 1357127 1358149 4744671    +           0 1214.5   2.5  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS5376               -                1    1023 1914026 1915048 1914026 1915048 4744671    +           0 1214.5   2.5  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS5376               -                1    1023 2154075 2155097 2154075 2155097 4744671    +           0 1214.5   2.5  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS5376               -                1    1023 4623749 4624771 4623749 4624771 4744671    +           0 1214.5   2.5  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          IS5376               -                1    1023  369517  368495  369517  368495 4744671    -           0 1214.5   2.5  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          ISRM3                -                1    1209  842257  843465  842257  843465 4744671    +           0 1421.5  10.8  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          ISRM3                -                1    1209 2467797 2469005 2467797 2469005 4744671    +           0 1421.5  10.8  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          ISRM3                -                1    1209 3949116 3950324 3949116 3950324 4744671    +           0 1421.5  10.8  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          ISRM3                -                1    1209  227066  225858  227066  225858 4744671    -           0 1421.5  10.8  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          ISRM3                -                1    1209  933251  932043  933251  932043 4744671    -           0 1421.5  10.8  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          ISRM3                -                1    1209   17956   19165   17956   19165 4744671    +           0 1412.0  11.1  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          ISRM3                -                1    1209 2238877 2240075 2238877 2240075 4744671    +           0 1232.1   7.5  Yersinia pseudotuberculosis IP_32953, complete sequence.
+Yersinia_pseudotuberculosis_IP_32953.Chr -          ISRM3                -             1121    1208  975420  975342  975441  975341 4744671    -       0.072   10.3   2.0  Yersinia pseudotuberculosis IP_32953, complete sequence.
+#
+# Program:         nhmmer
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      ../is_families_basys/joint.hmm
+# Target file:     Yersinia_pseudotuberculosis_IP_32953.Chr.gb
+# Option settings: nhmmer --tblout ../../results/hmm_basys/Yersinia_pseudotuberculosis_IP_32953.Chr.nhmm_tblout ../is_families_basys/joint.hmm Yersinia_pseudotuberculosis_IP_32953.Chr.gb 
+# Current dir:     /Users/dany2k/Documents/PhD/SFU/Yersinia_Project/is_analysis/data/basys_annotations
+# Date:            Mon Feb 24 12:59:05 2014
+# [ok]

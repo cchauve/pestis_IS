@@ -1,0 +1,52 @@
+# target name                       accession  query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#               ------------------- ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+Yersinia_pseudotuberculosis_PB1.Chr -          IS1328               -                7     606 1448518 1449124 1448512 1449144 4695619    +    1.5e-208  693.4   0.6  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS1328               -                6     160 1445953 1446109 1445948 1446124 4695619    +     7.8e-35  120.3   0.6  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS1328               -              594     678 1444859 1444943 1444838 1444943 4695619    +     1.4e-19   69.9   1.2  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS1328               -              611     660  192737  192688  192758  192671 4695619    -         0.3    9.5   0.9  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS150                -                1     786    8393    9178    8393    9178 4695619    +    2.1e-277  921.8  16.0  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS150                -                1     786 3858844 3859629 3858844 3859629 4695619    +    2.1e-277  921.8  16.0  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS150                -                1     786 4600083 4600868 4600083 4600868 4695619    +    1.1e-276  919.4  16.2  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS150                -              656     786 1317378 1317222 1317398 1317222 4695619    -     0.00044   19.1   4.3  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS150                -              689     772 2843919 2843836 2843938 2843827 4695619    -       0.019   13.7   4.8  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS150                -              423     493 3871688 3871615 3871708 3871593 4695619    -        0.75    8.4   2.4  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS150                -              423     493 3870218 3870145 3870238 3870124 4695619    -        0.77    8.4   2.4  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS150                -              558     699 2158201 2158354 2158181 2158377 4695619    +         1.8    7.1   4.2  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS200                -                1     509  819979  820487  819979  820488 4695619    +    7.9e-176  585.1  14.2  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS200                -                1     509 1741382 1741890 1741382 1741891 4695619    +      4e-175  582.8  14.3  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS21                 -              325     705 1914349 1914726 1914344 1914872 4695619    +     9.6e-12   42.7   1.8  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS21                 -              325     705 1343076 1342699 1343081 1342553 4695619    -     9.6e-12   42.7   1.8  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS21                 -              325     705  363501  363124  363523  362978 4695619    -     2.7e-11   41.2   2.0  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS21                 -              325     705  992884  992507  992906  992361 4695619    -     2.7e-11   41.2   2.0  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS21                 -              325     705 2232295 2231918 2232317 2231772 4695619    -     2.7e-11   41.2   2.0  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS21                 -              325     705 4570865 4570488 4570887 4570342 4695619    -     2.7e-11   41.2   2.0  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS21                 -              516     643 4357517 4357371 4357541 4357351 4695619    -        0.23    8.4   2.9  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS257                -                1     306 1760119 1760424 1760119 1760424 4695619    +      8e-102  340.7   7.0  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS257                -              223     290 2168585 2168657 2168561 2168675 4695619    +        0.62   10.5   0.6  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS257                -               66     133 1221257 1221324 1221237 1221344 4695619    +         1.1    9.7   1.7  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS3A                 -                1     960 2150378 2149419 2150378 2149419 4695619    -           0 1122.5  21.3  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS3A                 -                1     960 2140191 2139232 2140191 2139232 4695619    -           0 1118.5  19.8  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS5376               -                1    1023 1914010 1915032 1914010 1915032 4695619    +           0 1214.5   2.5  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS5376               -                1    1023 1343415 1342393 1343415 1342393 4695619    -           0 1214.5   2.5  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS5376               -                1    1023  363840  362818  363840  362818 4695619    -           0 1212.5   2.8  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS5376               -                1    1023  993223  992201  993223  992201 4695619    -           0 1212.5   2.8  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS5376               -                1    1023 2232634 2231612 2232634 2231612 4695619    -           0 1212.5   2.8  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          IS5376               -                1    1023 4571204 4570182 4571204 4570182 4695619    -           0 1212.5   2.8  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          ISRM3                -                1    1209 2015693 2016901 2015693 2016901 4695619    +           0 1421.5  10.8  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          ISRM3                -                1    1209 2848811 2850019 2848811 2850019 4695619    +           0 1421.5  10.8  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          ISRM3                -                1    1209  221594  220386  221594  220386 4695619    -           0 1421.5  10.8  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          ISRM3                -                1    1209 1729690 1728482 1729690 1728482 4695619    -           0 1421.5  10.8  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          ISRM3                -                1    1209  823993  825201  823993  825201 4695619    +           0 1418.8  11.0  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          ISRM3                -                1    1209   12526   13735   12526   13735 4695619    +           0 1410.4  10.9  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          ISRM3                -                1    1209 2155201 2156399 2155201 2156399 4695619    +           0 1232.1   7.5  Yersinia pseudotuberculosis PB1, complete sequence.
+Yersinia_pseudotuberculosis_PB1.Chr -          ISRM3                -             1121    1208  955567  955489  955587  955488 4695619    -       0.078   10.1   2.0  Yersinia pseudotuberculosis PB1, complete sequence.
+#
+# Program:         nhmmer
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      ../is_families_basys/joint.hmm
+# Target file:     Yersinia_pseudotuberculosis_PB1.Chr.gb
+# Option settings: nhmmer --tblout ../../results/hmm_basys/Yersinia_pseudotuberculosis_PB1.Chr.nhmm_tblout ../is_families_basys/joint.hmm Yersinia_pseudotuberculosis_PB1.Chr.gb 
+# Current dir:     /Users/dany2k/Documents/PhD/SFU/Yersinia_Project/is_analysis/data/basys_annotations
+# Date:            Mon Feb 24 12:59:08 2014
+# [ok]

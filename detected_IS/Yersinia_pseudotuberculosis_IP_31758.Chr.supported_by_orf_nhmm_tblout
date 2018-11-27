@@ -1,0 +1,43 @@
+# target name                            accession  query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#                    ------------------- ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS1328               -              594     678 3175344 3175260 3175366 3175260 4723306    -     9.4e-20   70.5   0.9  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS1328               -              611     660  201847  201798  201868  201781 4723306    -         0.3    9.5   0.9  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS150                -              656     786 3287081 3287237 3287061 3287237 4723306    +     0.00045   19.1   4.3  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS150                -              690     772 1825776 1825858 1825756 1825863 4723306    +        0.02   13.6   4.7  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS150                -              558     699 2501974 2501821 2501994 2501798 4723306    -         1.9    7.1   4.2  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509  204700  205208  204700  205209 4723306    +    6.8e-176  585.3  14.0  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509  572787  573295  572787  573296 4723306    +    6.8e-176  585.3  14.0  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 2875337 2875845 2875337 2875846 4723306    +    6.8e-176  585.3  14.0  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 3632848 3632340 3632848 3632339 4723306    -    6.8e-176  585.3  14.0  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 3840149 3839641 3840149 3839640 4723306    -    6.8e-176  585.3  14.0  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 2268988 2269496 2268988 2269497 4723306    +    7.9e-176  585.1  14.2  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 3517671 3518179 3517671 3518180 4723306    +    7.9e-176  585.1  14.2  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 2045876 2045368 2045876 2045367 4723306    -    7.9e-176  585.1  14.2  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 3246544 3246036 3246544 3246035 4723306    -    7.9e-176  585.1  14.2  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 3820984 3820476 3820984 3820475 4723306    -    7.9e-176  585.1  14.2  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 4361656 4361148 4361656 4361147 4723306    -    7.9e-176  585.1  14.2  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 1944139 1944647 1944139 1944648 4723306    +    3.9e-175  582.8  14.2  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 1994173 1994681 1994173 1994682 4723306    +    3.9e-175  582.8  14.2  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 4345500 4344992 4345500 4344991 4723306    -    3.9e-175  582.8  14.2  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS200                -                1     509 4390804 4390296 4390804 4390295 4723306    -    3.9e-175  582.8  14.2  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS21                 -              516     643 4424571 4424425 4424595 4424405 4723306    -        0.58    7.1   2.7  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS257                -                1     306 2860832 2860527 2860832 2860527 4723306    -    6.2e-102  341.0   7.4  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS257                -              223     290 2491619 2491547 2491643 2491529 4723306    -        0.62   10.5   0.6  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS257                -               66     133 3397772 3397705 3397792 3397685 4723306    -         0.8   10.1   1.5  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS257                -                1      42  719307  719348  719307  719368 4723306    +        0.85   10.1   1.3  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS257                -               47     120 2371415 2371344 2371435 2371322 4723306    -         2.7    8.4   1.9  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          IS4                  -                1    1208 2873884 2872677 2873884 2872676 4723306    -           0 1422.1  14.3  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          ISRM3                -                1    1209   17641   18849   17641   18849 4723306    +           0 1418.9  11.0  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          ISRM3                -                1    1209  329780  328572  329780  328572 4723306    -           0 1418.9  11.0  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          ISRM3                -                1    1209 2504974 2503776 2504974 2503776 4723306    -           0 1233.3   7.8  Yersinia pseudotuberculosis IP_31758, complete sequence.
+Yersinia_pseudotuberculosis_IP_31758.Chr -          ISRM3                -             1120    1208 3662206 3662285 3662184 3662286 4723306    +       0.019   12.2   2.1  Yersinia pseudotuberculosis IP_31758, complete sequence.
+#
+# Program:         nhmmer
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      ../is_families_basys/joint.hmm
+# Target file:     Yersinia_pseudotuberculosis_IP_31758.Chr.gb
+# Option settings: nhmmer --tblout ../../results/hmm_basys/Yersinia_pseudotuberculosis_IP_31758.Chr.nhmm_tblout ../is_families_basys/joint.hmm Yersinia_pseudotuberculosis_IP_31758.Chr.gb 
+# Current dir:     /Users/dany2k/Documents/PhD/SFU/Yersinia_Project/is_analysis/data/basys_annotations
+# Date:            Mon Feb 24 12:59:01 2014
+# [ok]

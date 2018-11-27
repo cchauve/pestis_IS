@@ -1,0 +1,46 @@
+# target name                         accession  query name           accession  hmmfrom hmm to alifrom  ali to envfrom  env to  sq len strand   E-value  score  bias  description of target
+#                 ------------------- ---------- -------------------- ---------- ------- ------- ------- ------- ------- ------- ------- ------ --------- ------ ----- ---------------------
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS1328               -                7     678 3188568 3187891 3188574 3187891 4689441    -    1.6e-234  779.2   0.8  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS1328               -                6     160 3191019 3190863 3191024 3190847 4689441    -     7.9e-35  120.3   0.6  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS1328               -              594     678 3192113 3192029 3192134 3192029 4689441    -     1.4e-19   69.9   1.2  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS1328               -              611     660 4452437 4452486 4452416 4452503 4689441    +         0.3    9.5   0.9  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS150                -              656     786 3303609 3303765 3303589 3303765 4689441    +     0.00044   19.1   4.3  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS150                -              689     772 1861680 1861763 1861661 1861772 4689441    +       0.019   13.7   4.8  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS150                -              558     699 2538658 2538505 2538678 2538482 4689441    -         1.8    7.1   4.2  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509  317488  317996  317488  317997 4689441    +    6.7e-176  585.3  14.0  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509  968972  969480  968972  969481 4689441    +    6.7e-176  585.3  14.0  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509 2479023 2479531 2479023 2479532 4689441    +    6.7e-176  585.3  14.0  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509 2886947 2887455 2886947 2887456 4689441    +    6.7e-176  585.3  14.0  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509 3511900 3512408 3511900 3512409 4689441    +    6.7e-176  585.3  14.0  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509 3467815 3468323 3467815 3468324 4689441    +    3.9e-175  582.8  14.2  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509 3186812 3186304 3186812 3186303 4689441    -    3.9e-175  582.8  14.2  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509  968260  968768  968260  968769 4689441    +    3.9e-175  582.8  14.3  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509 1867199 1867707 1867199 1867708 4689441    +    3.9e-175  582.8  14.3  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509 2774549 2774041 2774549 2774040 4689441    -    3.9e-175  582.8  14.3  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509 3293744 3293236 3293744 3293235 4689441    -    3.9e-175  582.8  14.3  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509 3832127 3831619 3832127 3831618 4689441    -    3.9e-175  582.8  14.3  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509 3852340 3851832 3852340 3851831 4689441    -    3.9e-175  582.8  14.3  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS200                -                1     509 3636427 3636935 3636427 3636936 4689441    +    1.8e-174  580.6  14.5  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS21                 -              516     643  287911  288057  287888  288077 4689441    +        0.24    8.3   2.9  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS257                -                1     306 2873775 2873470 2873775 2873470 4689441    -    4.6e-102  341.5   7.2  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS257                -                1     230 1441180 1440978 1441180 1440956 4689441    -     1.2e-46  160.1   0.9  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS257                -              223     290 2528272 2528200 2528296 2528182 4689441    -        0.61   10.5   0.6  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS257                -               66     133 3451933 3451866 3451953 3451846 4689441    -         1.1    9.7   1.7  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          IS257                -               47     120 2408569 2408498 2408589 2408476 4689441    -         2.7    8.4   1.9  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          ISRM3                -                1    1209  467916  466708  467916  466708 4689441    -           0 1421.5  10.8  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          ISRM3                -                1    1209 2007969 2006761 2007969 2006761 4689441    -           0 1419.3  10.6  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          ISRM3                -                1    1209 3373766 3372558 3373766 3372558 4689441    -           0 1419.3  10.6  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          ISRM3                -                1    1209 4637533 4636325 4637533 4636325 4689441    -           0 1419.3  10.6  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          ISRM3                -                1    1209 2541658 2540460 2541658 2540460 4689441    -           0 1231.7   7.4  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          ISRM3                -                2     169 2008207 2008040 2008208 2008019 4689441    -     4.1e-52  176.5   6.1  Yersinia pseudotuberculosis YPIII, complete sequence.
+Yersinia_pseudotuberculosis_YPIII.Chr -          ISRM3                -             1121    1208 3716953 3717031 3716932 3717032 4689441    +       0.071   10.3   2.0  Yersinia pseudotuberculosis YPIII, complete sequence.
+#
+# Program:         nhmmer
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      ../is_families_basys/joint.hmm
+# Target file:     Yersinia_pseudotuberculosis_YPIII.Chr.gb
+# Option settings: nhmmer --tblout ../../results/hmm_basys/Yersinia_pseudotuberculosis_YPIII.Chr.nhmm_tblout ../is_families_basys/joint.hmm Yersinia_pseudotuberculosis_YPIII.Chr.gb 
+# Current dir:     /Users/dany2k/Documents/PhD/SFU/Yersinia_Project/is_analysis/data/basys_annotations
+# Date:            Mon Feb 24 12:59:11 2014
+# [ok]
